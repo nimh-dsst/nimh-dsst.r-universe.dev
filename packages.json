@@ -1,7 +1,6 @@
 [
   {
     "package": "tdtr",
-    "url": "https://github.com/nimh-dsst/tdtr",
-    "branch": "*release"
+    "url": "https://github.com/nimh-dsst/tdtr"
   }
 ]
